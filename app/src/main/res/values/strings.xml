@@ -14,10 +14,6 @@
     <!-- Strings used for fragments for navigation -->
 
 
-    <string name="lorem_ipsum">
-
-    </string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum"> </string>
 
 </resources>
